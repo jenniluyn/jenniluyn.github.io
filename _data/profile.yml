@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "Jenni Nguyen"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jenni Nguyen"
 
 positions:
 - name: Graduate Research Assistant
@@ -10,7 +10,7 @@ positions:
 
 email: "jenniluyn@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: jenniluyn
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -22,29 +22,30 @@ orcid: 0009-0007-8700-8337
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hey, my name is Jenni. I am a second year PhD student in Cell and Developmental Biology at The University of British Columbia
+    in Vancouver, Canada. I am a member of the <a href="https://pouladilab.org/" target="_blank">Pouladi Lab,</a> where I study genetic
+    modifiers of Huntington disease in mouse models.
   </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    <p>
+    I am interested in medical writing as a career. I write for The Ubyssey and I also publish things on my personal Substack from time
+    to time. I enjoy movies, music, being outside, and reading/writing.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: The University of British Columbia
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Cell and Developmental Biology (CELL) Graduate Program <br/>
     Ph.D. Student
   date: Sep. 2024 - present
-- name: Peking University
+- name: Wellesley College
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: B.A. in Biological Sciences
+  date: May 2021
 
 # experience:
 # - name: Peking University
