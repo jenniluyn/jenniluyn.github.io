@@ -4,7 +4,7 @@ navbar_name: "Jenni Nguyen"
 
 positions:
 - name: Graduate Research Assistant
-- name: The University of British Columbia
+- name: University of British Columbia
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -52,6 +52,14 @@ experience:
   logo: /assets/images/badges/ubc-logo.png
   position: Graduate Teaching Assistant II
   date: Sep. 2024 - present
+- name: Aquinnah Pharmaceuticals
+  logo: /assets/images/badges/Aquinnahlogo_simple.jpg
+  position: Senior Research Associate
+  date: May 2022 - Jul. 2024
+- name: Skyhawk Therapeutics
+  logo: /assets/images/badges/skyhawk_logo.avif
+  position: Research Associate
+  date: Feb. 2021 - May 2022
 
 awards:
 - name: Huntington Society of Canada Research Award
