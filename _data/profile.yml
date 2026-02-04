@@ -47,6 +47,10 @@ education:
   position: B.A. in Biological Sciences
   date: Graduated May 2021
 
+awards:
+- name: Huntington Society of Canada Research Award
+  date: 2024
+
 experience:
 - name: University of British Columbia
   logo: /assets/images/badges/ubc-logo.png
@@ -64,7 +68,3 @@ experience:
   logo: /assets/images/badges/skyhawk_logo.avif
   position: Research Associate, Structural Biology
   date: Feb. 2021 - May 2022
-
-awards:
-- name: Huntington Society of Canada Research Award
-  date: 2024
