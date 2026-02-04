@@ -1,7 +1,7 @@
 ---
 title:          "MEIOC prevents continued mitotic cycling and promotes meiotic entry during mouse oogenesis"
 date:           2026-01-12 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Development"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
