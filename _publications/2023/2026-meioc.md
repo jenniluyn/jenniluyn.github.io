@@ -12,8 +12,8 @@ abstract: >-
   To generate haploid gametes, germ cells must transition from mitosis to meiosis. In mammals, the transcriptional activator STRA8-MEIOSIN mediates the decision to enter the meiotic cell cycle, but how germ cells prevent continued mitotic cycling before meiotic entry remains unclear. MEIOC was previously shown to repress the mitotic program after meiotic entry. Here, we investigate the role of MEIOC in the mitosis-to-meiosis transition during mouse oogenesis.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Jenniluyn T. Nguyen*
   - Esther G. Ushuhuda*
+  - <b>Jenniluyn T. Nguyen*</b>
   - Natalie G. Pfaltzgraff
   - Shelbie M. Wenner
   - Matthew Kofron
