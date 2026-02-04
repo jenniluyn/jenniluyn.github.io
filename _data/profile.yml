@@ -24,7 +24,8 @@ short_bio: >-
   <p>
     Hey, my name is Jenni. I am a second year PhD student in Cell and Developmental Biology at The University of British Columbia
     in Vancouver, Canada. I am a member of the <a href="https://pouladilab.org/" target="_blank">Pouladi Lab,</a> where I study genetic
-    modifiers of Huntington disease in mouse models.
+    modifiers of Huntington disease in mouse models. After graduating from Wellesley College in 2021, I worked at several biotech startups in 
+    Massachusetts, where I gained scientific industry experience.
   </p>
     <p>
     I am interested in medical writing as a career. I write for The Ubyssey and I also publish things on my personal Substack from time
@@ -36,7 +37,7 @@ portrait_url: /assets/images/photos/868314B5-E603-4600-A01B-786242467B0F.JPG
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: The University of British Columbia
+- name: University of British Columbia
   logo: /assets/images/badges/ubc-logo.png
   position: >- 
     Cell and Developmental Biology <br/>
@@ -64,3 +65,5 @@ experience:
 awards:
 - name: Huntington Society of Canada Research Award
   date: 2024
+- name: Wellesley College Cum Laude Honors
+  date: 2021
