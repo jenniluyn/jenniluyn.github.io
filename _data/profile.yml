@@ -13,9 +13,9 @@ email: "jenniluyn@gmail.com"
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: jenniluyn
 twitter: jenninguyen_
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_prompt: >-
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: jenniluyn
 orcid: 0009-0007-8700-8337
 
@@ -25,11 +25,11 @@ short_bio: >-
     Hey, my name is Jenni. I am a second year PhD student in Cell and Developmental Biology at The University of British Columbia
     in Vancouver, Canada. I am a member of the <a href="https://pouladilab.org/" target="_blank">Pouladi Lab,</a> where I study genetic
     modifiers of Huntington disease in mouse models. After graduating from Wellesley College in 2021, I worked at several biotech startups in 
-    Massachusetts, where I gained scientific industry experience.
+    Massachusetts, where I gained experience in drug discovery and the pharmaceutical industry.
   </p>
     <p>
-    I am interested in medical writing as a career. I write for The Ubyssey and I also publish things on my personal Substack from time
-    to time. I enjoy movies, music, being outside, and reading/writing.
+    I have career interests in medical writing. I write for The Ubyssey, and publish things on my personal Substack from time
+    to time. I enjoy reading/writing, movies, music, and being outside whenever I can.
   </p>
 
 portrait_url: /assets/images/photos/868314B5-E603-4600-A01B-786242467B0F.JPG
